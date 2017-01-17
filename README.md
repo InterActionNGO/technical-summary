@@ -28,7 +28,7 @@ Read more on the NGO Aid Map [data page](https://ngoaidmap.org/p/data) and feel 
 
 *_International Aid Transparency Initiative_ ([Read More](https://iatistandard.org))
 
-### Open Source Description & Licensing (Once decided)
+### Use it. Improve it. Cite it.
 NGO Aid Map is an open-source project, released under the [GNU Affero General Public License v3 (GNU AGPLv3)](https://www.gnu.org/licenses/agpl-3.0.html) on GitHub in a [front end](https://github.com/InterActionNGO/ngoaidmap) and a [back end](https://github.com/InterActionNGO/NGO-admin) repository.  Contributions are welcome!
 
 ### Needs
